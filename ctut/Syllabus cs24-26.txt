@@ -1,0 +1,11 @@
+1) Language-1 (c, c++) 							# 3-6 Months
+2) Basic Hardware Concept & Troubleshooting 				# 3 Months
+3) Data Structure & Algorithm						# 6 Months
+4) DBMS - Basic Concepts						# 6 Month	
+5) Operating Sysem - Basic Concepts					# 6 Months Gavin
+6) Scripting - Shell Scripting						# 3 Months
+7) Computer Networks - Basic Concepts					# 6 Months
+8) Language-2 (Java, Python, C Sharp)					# 6-12 Months
+9) Oeprating System - Windows, Linux, Solaris, Android & AIX)		# 6 Months  
+7) Database (SQL, MySQL, Oracle, DB2)					# 6 Months
+
